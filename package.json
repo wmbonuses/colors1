@@ -4,7 +4,7 @@
   "description": "",
   "main": "rainbow.js",
   "scripts": {
-    "start": "node rainbow.js",
+    "start": "node green.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
