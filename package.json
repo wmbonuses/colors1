@@ -1,0 +1,23 @@
+{
+  "name": "colors1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rainbow.js",
+  "scripts": {
+    "start": "node rainbow.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmbonuses/colors1.git"
+  },
+  "author": "Vladimir Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmbonuses/colors1/issues"
+  },
+  "homepage": "https://github.com/wmbonuses/colors1#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
